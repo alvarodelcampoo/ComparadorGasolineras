@@ -2,7 +2,8 @@
 
 ## Descripción del problema
 
-Últimamente noto que mis padres empiezan a notar el peso de los años, pero sobretodo pienso que a mi madre cada vez le cuesta más lidiar con las tareas de casa, que asume prácticamente todas. Creo que necesitamos una forma de que nos podamos repartir las tareas de forma justa entre todos, ya que algunas tareas no exigen el mismo esfuerzo que otras, y a ser posible que cada cierto tiempo cambie la distribución para que no le toquen siempre las mismas tareas a la misma persona.
+Yo, como estudiante utilizo el coche diariamente para realizar mis respectivas obligaciones y siempre suelo repostar en la misma gasolinera. Sin embargo, después cuando me fijo en el precio de otras gasolineras, veo que tienen un precio mucho más económico del que suelo pagar. Es cierto que estos precios pueden variar bastante de un día para otro, por eso necesito alguna forma con la que pueda saber cuando hay una gasolinera con mucho mejor precio en mi trayecto diario para que pueda ahorrarme una gran cantidad de dinero mensualmente. Existe una fuente de datos pública en el Geoportal de Gasolineras del MITECO donde se puede consultar el precio en tiempo real de los carburantes en las gasolineras españolas.
+
 
 ![Fotografía de la tarjeta de rol](foto.jpeg)
 
