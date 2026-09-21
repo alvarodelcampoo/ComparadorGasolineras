@@ -1,4 +1,4 @@
-# RepartoHogar
+# ListadoErasmus
 
 ## Descripción del problema
 
