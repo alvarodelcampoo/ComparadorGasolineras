@@ -42,5 +42,10 @@ Es necesario tener acceso a las listas de las 3 convocatorias, ya que las person
 
 Para ver detalles de la configuración del entorno: [docs/configuracion.md](docs/configuracion.md)
 
+## User Journey
+
+Estaba planteándome si solicitar el Erasmus y me he puesto a investigar cómo podía buscar cuáles son los destinos posibles y me ha aparecido una página web en la que introduciendo únicamente mi nota de expediente hasta ahora y mi nivel de idioma me ordenaba todos los posibles destinos en función de mi probabilidad de que me los adjudiquen en caso de solicitarlos, esto me ha ahorrado una gran cantidad de horas de mi tiempo que habría utilizado investigando. Finalmente hago mi selección de mis 10 destinos preferidos y puedo acceder a la plataforma todas las veces que quiera si me empieza a llamar más la atención otro lugar.
+
+
 
 
