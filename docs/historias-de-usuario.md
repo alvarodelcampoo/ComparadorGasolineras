@@ -1,4 +1,4 @@
 [HU1]: Soy un estudiante de ingeniería informática, y quiero irme de Erasmus, y necesito un sitio en el que pueda consultar mis diferentes posibles destinos en función de mi situación académica y de idiomas sin que tenga que estar de un archivo para otro investigando.
 
 
-[HU2]: Estoy cursando segundo de informática y necesito que la plataforma sea rápida, accesible y persistente para que no tenga que estar volviendo a introduciendo mis datos, ya que es una plataforma a la que tendré que acceder regularmente para revisar o comprobar la idea de destinos que tenía.
+[HU2]: Estoy cursando segundo de informática y necesito que la plataforma sea persistente para que no tenga que estar volviendo a introduciendo mi nota de corte o mi nivel de idioma cada vez que acceda a la plataforma, ya que es una plataforma a la que tendré que acceder regularmente para revisar o comprobar la idea de destinos que tenía y me gustaría no perder tiempo volviendo a introducir todo de nuevo, aunque es importante que exista la posibilidad de cambiar los datos por si quiero ver cómo cambiaría la cosa si consigo una titulación de idiomas superior.
