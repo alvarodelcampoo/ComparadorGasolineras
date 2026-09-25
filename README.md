@@ -46,6 +46,12 @@ Para ver detalles de la configuración del entorno: [docs/configuracion.md](docs
 
 Estaba planteándome si solicitar el Erasmus y me he puesto a investigar cómo podía buscar cuáles son los destinos posibles y me ha aparecido una página web en la que introduciendo únicamente mi nota de expediente hasta ahora y mi nivel de idioma me ordenaba todos los posibles destinos en función de mi probabilidad de que me los adjudiquen en caso de solicitarlos, esto me ha ahorrado una gran cantidad de horas de mi tiempo que habría utilizado investigando. Finalmente hago mi selección de mis 10 destinos preferidos y puedo acceder a la plataforma todas las veces que quiera si me empieza a llamar más la atención otro lugar.
 
+## Perfiles de usuario
+
+Soy María y estoy cursando segundo de ingeniería informática y me estoy planteando la opción de irme de Erasmus, pero debido a mi media de notas actual de 6.2 y un nivel de inglés de un B2, no sé sin con esto sería capaz de optar a algún lugar de centroeuropa ya que me apasionaría estar un año viviendo en Polonia, República Checa... Además, se me hace súper complicado ver la nota en la que se quedó ciertos lugares, ya que tengo que ver las notas de cada adjudicación, porque si alguien rechazó en la primera adjudicación o en la segunda entonces aquel destino acabó con menos nota de corte y espero que con esta plataforma pueda evitarme todo ese proceso.
+
+Soy Pablo de tercero de informática y quiero irme de erasmus pero únicamente un cuatrimestre, tengo una gran nota media un 8.4, sin embargo sólo tengo un B1 de inglés y estoy planteándome presentarme a alguna titulación de idiomas para que después no me lleve una decepción, ya que todos mis amigos fueron el año pasado y no han parado de decirme que no pierda esta oportunidad que para ellos ha sido única. Me encantaría que la plataforma me muestre mis posibilidades de forma clara para que sea capaz de tomar una decisión.
+
 
 
 
