@@ -9,6 +9,8 @@ Un estudiante de la Universidad de Granada, en este caso de ingeniería informá
 	-B2:   +1 puntos
 	-C1: +1.5 puntos
 	-C2:   +2 puntos
+
+Esta bonificación sólo se aplica si tienes más nivel de idioma del que se pide, si es obligatorio para acceder al destino un B2 de inglés y tienes ese título no se te añade ninguna bonificación, sin embargo si tienes un C1 de inglés se te suma un 1.5 puntos adicionales.
 	
 Hay un detalle a tener en cuenta, algunos de estos destinos exigen un nivel mínimo de idioma, por ejemplo si en un destino se pide un B2 de inglés y tienes una nota superior a la nota de corte pero tienes un B1 de inglés, no puedes optar a este destino.
 
