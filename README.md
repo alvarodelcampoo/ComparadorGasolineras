@@ -36,8 +36,7 @@ Es necesario tener acceso a las listas de las 3 convocatorias, ya que las person
 
 ## Tarjeta de rol
 
-[Tarjeta de rol][images/foto.jpeg](foto.jpeg)
-
+[Tarjeta de rol](images/foto.jpeg)
 
 ## Configuración del repositorio
 
