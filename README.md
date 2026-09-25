@@ -34,13 +34,26 @@ https://internacional.ugr.es/estudiantes/movilidad-saliente/grado-estudio/movili
 Es necesario tener acceso a las listas de las 3 convocatorias, ya que las personas que aceptan el destino qué se les ha asignado no vuelven a aparecer en las listas posteriores, ya que no hay posibilidad de acceder a esas plazas.
 
 
-![Fotografía de la tarjeta de rol](foto.jpeg)
+## Tarjeta de rol
+
+[Tarjeta de rol][images/foto.jpeg](foto.jpeg)
 
 
 ## Configuración del repositorio
 
+[Configuración del repositorio](docs/configuracion.md)
 
-Para ver detalles de la configuración del entorno: [docs/configuracion.md](docs/configuracion.md)
+
+## Historias de usuario
+
+[Historias de usuario](docs/historias-de-usuario.md)
+
+
+## Milestones
+
+[Milestones](docs/milestones.md)
+
+
 
 
 
