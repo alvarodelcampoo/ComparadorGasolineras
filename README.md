@@ -55,6 +55,16 @@ Es necesario tener acceso a las listas de las 3 convocatorias, ya que las person
 [Milestones](docs/milestones.md)
 
 
+## User Journey
+
+[User Journey] (docs/user-journey.md)
+
+
+## Perfiles de Usuario
+
+[Perfiles de Usuario] (docs/perfiles-usuario.md)
+
+
 
 
 
